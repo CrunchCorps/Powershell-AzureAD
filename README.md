@@ -1,6 +1,6 @@
 # Varonis Assignment 1
 ---
-## PowerShell script that interacts with Azure Active directory and does the following:
+PowerShell script that interacts with Azure Active directory and does the following:
 ---
 > Creates 20 Azure Active Directory User accounts with the name of “Test User <Counter>”.
 > Creates an Azure Active Directory Security group with the name of “Varonis Assignment Group”.
@@ -11,3 +11,4 @@
 > -Username
 > -Timestamp of the attempt to add the user to the group.
 > -Result of the attempt (success\failure)
+>
