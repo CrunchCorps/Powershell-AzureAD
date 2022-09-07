@@ -11,4 +11,3 @@ PowerShell script that interacts with Azure Active directory and does the follow
 > -Username
 > -Timestamp of the attempt to add the user to the group.
 > -Result of the attempt (success\failure)
->
