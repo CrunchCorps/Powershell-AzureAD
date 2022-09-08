@@ -4,7 +4,7 @@
     azureSubscription: 'Azure subscription 1 (e5f578af-b5e3-4010-b5fb-feaeae59a917)'
     ScriptType: 'FilePath'
     ScriptPath: '~/AzureAD-Powershell-Assignment1.ps1'
-    errorActionPreference: 'silentlyContinue'
+    errorActionPreference: 'Stop'
     azurePowerShellVersion: 'LatestVersion'
     workingDirectory: '~/'
 # Start with a minimal pipeline that you can customize to build and deploy your code.
