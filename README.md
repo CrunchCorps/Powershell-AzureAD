@@ -5,9 +5,9 @@
   </a>
     <a href="https://github.com/CrunchCorps/Powershell-AzureAD">
       <img src="https://img.shields.io/badge/Version-0.1.3-blue.svg">
-        <img src="https://img.shields.io/badge/Release%20Date-September%132022-informational">
+        <img src="https://img.shields.io/badge/Release%20Date-September%202022-informational">
   <img src="https://shields.io/badge/Powershell-100%25-red">
-  <img src="https://shields.io/badge/Platform-%20Azure-AD-lightred">
+  <img src="https://shields.io/badge/Platform-%20Azure-AD-red">
     </a>
   </p>
 </p>
