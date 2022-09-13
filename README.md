@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://github.com/CrunchCorps/Powershell-AzureAD/blob/main/Assignment1logo.png">
+  <p align="center">PowerShell script that interacts with Azure Active directory.</p>
+  <p align="center">
+  </a>
+    <a href="https://github.com/CrunchCorps/Powershell-AzureAD">
+      <img src="https://img.shields.io/badge/Version-0.1.3-blue.svg">
+        <img src="https://img.shields.io/badge/Release%20Date-September%132022-informational">
+  <img src="https://shields.io/badge/Powershell-100%25-red">
+  <img src="https://shields.io/badge/Platform-%20Azure-AD-lightred">
+    </a>
+  </p>
+</p>
+
 # PowerShell Interaction-AzureAD #
 ### Varonis Assignment 1 ###
 PowerShell script that interacts with Azure Active directory
