@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/Version-0.1.3-blue.svg">
         <img src="https://img.shields.io/badge/Release%20Date-September%202022-informational">
   <img src="https://shields.io/badge/Powershell-100%25-red">
-  <img src="https://shields.io/badge/Platform-%20Azure-AD-red">
+  <img src="https://shields.io/badge/platform-Azure%20active%20directory-red">
     </a>
   </p>
 </p>
