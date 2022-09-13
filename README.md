@@ -31,6 +31,8 @@ Clone the repository:
 
       > git clone https://github.com/RandomLinoge/VaronisAssignment1.git
   
+Using Azure Cloud Powershell / Visual Studio Code [via Azure CLI]
+
 Connect to azure:
   
       > Connect-Azure-AD
